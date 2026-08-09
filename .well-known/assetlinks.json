@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.juzamma.baraem",
+        "sha256_cert_fingerprints": ["BD:FD:98:74:FD:89:6B:54:47:AD:F6:F8:47:A7:7F:CF:11:62:D4:07:83:48:59:DC:50:84:53:0F:5A:A1:97:99"]
+      }
+    }]
